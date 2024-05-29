@@ -16,7 +16,7 @@ Below is the result of my own training for 800 epochs.
 Instructions:
 
 (1) Clone git
-
+https://github.com/490630490/mario-main.git
 (2) Installation requirements
 pip install -r requirements.txt
 
