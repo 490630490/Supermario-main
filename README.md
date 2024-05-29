@@ -8,6 +8,11 @@ Below is the result of my own training for 800 epochs.
 
 
 ![alt text](train_result_video.gif)
+
+
+
+
+
 Instructions:
 
 (1) Clone git
