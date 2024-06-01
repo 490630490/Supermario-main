@@ -3,7 +3,7 @@ Introduction:
 
 This is a homework work that uses the DQN algorithm to train and implement the Super Mario game.
 This work is based on and improved upon the work in the official Pytorch reinforcement learning tutorial.
-Below is the result of my own training for 800 epochs.
+Below is the result of my own training for 800 episodes.
 
 
 
