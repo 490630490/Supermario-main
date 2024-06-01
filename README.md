@@ -74,7 +74,9 @@ zipp                 3.19.0
 (3) Code running
 
 Use main.py for training.
+
 python main.py
+
 episodes represents the number of training times, which can be set to your own number.
 
 Use replay.py for testing.
